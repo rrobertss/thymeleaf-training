@@ -12,7 +12,7 @@
     <artifactId>thymeleaf-training</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>thymeleaf-training</name>
-    <description>Thymeleaf-training - Spring Boot</description>
+    <description>Thymeleaf-training - Spring Boot </description>
 
     <properties>
         <java.version>1.8</java.version>
